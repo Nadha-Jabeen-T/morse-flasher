@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/morse_flasher/BuildConfig.java
+ com.example.morse_flasher.BuildConfig
